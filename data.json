@@ -1,0 +1,51 @@
+{"projects":[
+    {
+        "id": 0,
+        "project_name": "Random quote generator",
+        "description":"an app that displays random famous quotes each time a button is clicked.",
+        "technologies":["HTML", "CSS", "JS"],
+        "live_link": "https://mwondyfraw.github.io/project-unit-1/",
+        "github_link": "https://github.com/MWondyfraw/project-unit-1",
+        "image_urls":["/static/images/Quotes-1.png","/static/images/Quotes-2.png"] 
+    },
+    {
+        "id": 1,
+        "project_name": "Data Pagination & Filtering",
+        "description": "web development technique known as “pagination” to enhance the usability of a web page.",
+        "technologies":["HTML","CSS","JS"],
+        "live_link": "https://mwondyfraw.github.io/project-unit-2/",
+        "github_link": "https://github.com/MWondyfraw/project-unit-2",
+        "image_urls":["/static/images/Pagination-1.png","/static/images/Pagination-2.png"]
+    },
+    {
+        "id": 2,
+        "project_name": "Interactive Form",
+        "description": "use JavaScript to enhance an interactive registration form for a fictional Full Stack conference.",
+        "technologies":["HTML","CSS","JS"],
+        "live_link": "https://mwondyfraw.github.io/project-unit-3/",
+        "github_link": "https://github.com/MWondyfraw/project-unit-3",
+        "image_urls":["/static/images/Form-1.png","/static/images/Form-2.png"]
+
+    },
+    {
+        "id": 3,
+        "project_name":"OOP Game Show App",
+        "description":"Create a browser-based, word guessing game: PhraseHunter.",
+        "technologies":["HTML","CSS","JS"],
+        "live_link":" https://mwondyfraw.github.io/project-unit-4/",
+        "github_link":"https://github.com/MWondyfraw/project-unit-4",
+        "image_urls":["/static/images/Game-1.png", "/static/images/Game-2.png"]
+    },
+    {
+        "id": 4,
+        "project_name": "Public API Requests",
+        "description": "use JavaScript and AJAX to make a request of a public API, or Application Programming Interface.",
+        "technologies":["HTML","CSS","JS","API"],
+        "live_link":"https://mwondyfraw.github.io/project-unit-5/",
+        "github_link":"https://github.com/MWondyfraw/project-unit-5",
+        "image_urls":["/static/images/API-1.png","/static/images/API-2.png"]
+
+
+    }
+
+]}
